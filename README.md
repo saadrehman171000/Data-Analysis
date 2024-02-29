@@ -38,7 +38,7 @@ We performed predictive analysis using the dataset, exploring diagnostic measure
 ## Usage
 
 1. Clone this repository.
-  - git clone https://github.com/saadrehman171000/Data-Analysis.git
+  git clone https://github.com/saadrehman171000/Data-Analysis.git
 3. Explore the Jupyter Notebooks for each project to review the analysis, visualizations, and insights derived from the datasets.
 
 ## Future Improvements
@@ -47,4 +47,4 @@ We performed predictive analysis using the dataset, exploring diagnostic measure
 - Explore additional datasets to further enrich the analysis and insights.
 
 ## Contributors
--Saad Rehman
+    Saad Rehman
